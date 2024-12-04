@@ -1,4 +1,6 @@
-# Saint Denis Police Extension MLO
+# Saint Denis Police Extension
+
+FOLDER TO STREAM IS INSIDE OF "FILES" folder, stream "soda_sd_police_extension".
 
 Thanks for downloading this MLO! Please read until the end.
 
